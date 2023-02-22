@@ -1,3 +1,3 @@
 # JS-Game
 
-This Repo accepts all type of game developed using javascript.
+This repo accepts js projects.
